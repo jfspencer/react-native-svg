@@ -1,5 +1,5 @@
 # react-native-svg
-First Class SVG integration with React Native
+First Class SVG integration with React Native (uses SVGKit on iOS)
 
 - iOS module written in Swift with Obj-C macro bridge
 - Android Module written in Kotlin with Java packager bridge
